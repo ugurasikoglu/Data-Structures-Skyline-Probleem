@@ -1,4 +1,4 @@
-/*Ugur Sezer Asikoglu 26355 CS300 Assignment 3*/
+/*Ugur Sezer Asikoglu */
 #include <iostream>
 #include <string>
 #include <fstream>
@@ -95,7 +95,7 @@ int main()
 	ModifiedPriorityQueue myHeap(givenSize); /*Creats a heap with capacity of numbere of buildings*/
 
 
-	for(int i=0;i<edgesArray.size();i++) /*Loops ýterator over all the edges*/
+	for(int i=0;i<edgesArray.size();i++) /*Loops Ã½terator over all the edges*/
 	{
 		if (i==0) /*If its first edge and not in x=0 that means our origin is 0 and no building in there so height is also 0*/
 		{
