@@ -1,4 +1,4 @@
-/*Ugur Sezer Asikoglu 26355 CS300 Assignment 3*/
+/*Ugur Sezer Asikoglu*/
 #include<iostream>
 #include<string>
 #include <vector>
